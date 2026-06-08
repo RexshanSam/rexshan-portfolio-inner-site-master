@@ -219,11 +219,11 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         <p>
                             [{' '}
                             <a
-                                href="https://github.com/RexshanSam/SmartStorageLocker"
+                                href="https://smart-storage-locker.vercel.app/"
                                 target="_blank"
                                 rel="noreferrer"
                             >
-                                Github
+                                Live Link
                             </a>{' '}
                             ]
                         </p>
