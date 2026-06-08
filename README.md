@@ -7,6 +7,7 @@ The actual portfolio content lives inside the **"My Showcase"** application, whi
 ## 🔗 Live Demo
 * **Live App:** *(Add your deployed Vercel/Netlify link here once live!)*
 * **GitHub Repository:** [github.com/RexshanSam/rexshan-portfolio-inner-site-master](https://github.com/RexshanSam/rexshan-portfolio-inner-site-master)
+* **Live Link:**(https://rexshan-portfolio-inner-site-master.vercel.app/).
 
 ---
 
