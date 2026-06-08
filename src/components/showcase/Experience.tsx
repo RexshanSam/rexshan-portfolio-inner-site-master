@@ -154,6 +154,38 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                 <br />
                 <h3 style={styles.indent}>My Projects:</h3>
                 <ul>
+                    
+                    <li style={styles.row}>
+                        <p>• Portfolio-Inner-site-Master</p>
+                        <p>
+                            [{' '}
+                            <a
+                                href="https://rexshan-portfolio-inner-site-master.vercel.app/"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                Live Link
+                            </a>{' '}
+                            ]
+                        </p>
+                    </li>
+
+                    <li style={styles.row}>
+                        <p>• Portfolio-Website-Master</p>
+                        <p>
+                            [{' '}
+                            <a
+                                href="https://rexshan-portfolio-website-master.vercel.app/"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                Live Link
+                            </a>{' '}
+                            ]
+                        </p>
+                    </li>
+                    
+                    
                     <li style={styles.row}>
                         <p>• Gidy Profile</p>
                         <p>
