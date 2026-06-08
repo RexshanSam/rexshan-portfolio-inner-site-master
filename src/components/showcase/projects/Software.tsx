@@ -57,7 +57,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                    // href="https://henryheffernan.vercel.app/"
+                     href="https:rexshan-portfolio-inner-site-master.vercel.app/"
                     >
                         here
                     </a>{' '}
@@ -73,7 +73,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                        // href="https://henryheffernan.com"
+                         href="https://rexshan-portfolio-inner-site-master.vercel.app/"
                         >
                             <p>
                                 <b>[3D Site]</b> -rexshan.com
@@ -84,7 +84,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://rexshansam.netlify.app/"
+                            href="https://rexshan-portfolio-website-master.vercel.app/"
                         >
                             <p>
                                 <b>[OS Site]</b> - rexshansam.netlify.app
@@ -95,7 +95,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://rexshansam.netlify.app/"
+                            href="https://rexshan-portfolio-website-master.vercel.app/"
                         >
                             <p>
                                 <b>[GitHub]</b> - 3D Site Repository
@@ -106,7 +106,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://rexshansam.netlify.app/"
+                            href="https://rexshan-portfolio-website-master.vercel.app/"
                         >
                             <p>
                                 <b>[GitHub]</b> - OS Site Repository
@@ -122,7 +122,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://rexshansam.netlify.app/"
+                        href="https://rexshan-portfolio-website-master.vercel.app/"
                     >
                         @RexshanSam
                     </a>
